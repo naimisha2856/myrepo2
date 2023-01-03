@@ -2,3 +2,4 @@
 "naimi training" 
 "i'm getting trained" 
 "hi" 
+"git training"
