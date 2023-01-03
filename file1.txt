@@ -1,1 +1,3 @@
 "naimi training" 
+"naimi training" 
+"i'm getting trained" 
